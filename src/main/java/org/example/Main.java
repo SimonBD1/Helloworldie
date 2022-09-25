@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Kamelåså");
         System.out.println("KJartan er dogwater!");
         System.out.println("123");
+        System.out.println("Kjartan kan ikke køre bil");
     }
 }
