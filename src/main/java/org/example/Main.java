@@ -9,7 +9,6 @@ public class Main {
         System.out.println("KJartan er dogwater!");
         System.out.println("Peter har en kæmpe johnson");
         System.out.println("Tobias er forelsket i speed");
-
         System.out.println("Kjartan er jo cray cray");
     }
 }
