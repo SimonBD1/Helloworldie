@@ -10,5 +10,6 @@ public class Main {
         System.out.println("123");
         System.out.println("Kjartan kan ikke køre bil");
         System.out.println("Peter har en kæmpe johnson");
+
     }
 }
