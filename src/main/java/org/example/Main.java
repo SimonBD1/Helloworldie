@@ -7,6 +7,6 @@ public class Main {
         System.out.println("Simon har store muskler");
         System.out.println("Kamelåså");
         System.out.println("KJartan er dogwater!");
-        System.out.println("123");
+        System.out.println("Peter har en kæmpe johnson");
     }
 }
