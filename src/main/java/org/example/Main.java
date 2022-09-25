@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Simon har store muskler");
         System.out.println("Kamelåså");
         System.out.println("KJartan er dogwater!");
+        System.out.println("Tobias er forelsket i Carl");
     }
 }
