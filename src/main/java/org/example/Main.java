@@ -6,5 +6,6 @@ public class Main {
         System.out.println("SUUUUIIII, Kjartan lugter!!");
         System.out.println("Simon har store muskler");
         System.out.println("Kamelåså");
+        System.out.println("KJartan er dogwater");
     }
 }
